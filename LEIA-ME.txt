@@ -1,0 +1,72 @@
+CAMP BUDDY: SCOUTMASTER SEASON — TRADUÇÃO PT-BR v4.0
+==========================================================
+
+PATCH NÃO OFICIAL FEITO POR FÃS
+
+COMPATIBILIDADE
+---------------
+Compatibilidade-alvo: Camp Buddy: Scoutmaster Season 1.7 para PC.
+
+A compatibilidade pode variar entre diferentes distribuições/builds do jogo.
+Este pacote contém somente o patch de localização em português brasileiro.
+O jogo original NÃO está incluído e é necessário para utilizar a tradução.
+
+INSTALAÇÃO
+----------
+1. Feche o jogo.
+2. Abra a pasta de instalação de Camp Buddy: Scoutmaster Season.
+3. Entre na pasta "game".
+4. Caso exista uma versão anterior deste patch PT-BR (por exemplo,
+   CampBuddy_PTBR_v3.2.rpy), remova-a ou mova-a para fora da pasta "game".
+5. Copie "CampBuddy_PTBR_v4.0.rpy" para a pasta "game".
+6. Inicie o jogo normalmente.
+
+IMPORTANTE
+----------
+Não mantenha duas versões do patch PT-BR na pasta "game" ao mesmo tempo,
+pois isso pode causar conflitos.
+
+Não é necessário instalar separadamente os scripts usados durante o
+processo de tradução da DLC. A integração textual está no patch v4.0.
+
+DESINSTALAÇÃO
+-------------
+Feche o jogo e remova "CampBuddy_PTBR_v4.0.rpy" da pasta "game".
+
+SOBRE A v4.0
+------------
+- Localização em português brasileiro do conteúdo textual coberto pelo projeto.
+- Integração da tradução textual da DLC.
+- Compatibilidade-alvo com Camp Buddy: Scoutmaster Season 1.7 para PC.
+- Preservação de tags e comandos necessários ao funcionamento do Ren'Py.
+
+RELATANDO PROBLEMAS
+-------------------
+Se encontrar uma fala ainda em inglês, erro de tradução ou problema de
+formatação, informe, se possível:
+- a fala que apareceu;
+- em qual parte do jogo ocorreu;
+- uma captura de tela;
+- a versão/build do jogo utilizada.
+
+CRÉDITOS
+--------
+Projeto, iniciativa e testes: Henrique Jorge
+Tradução, revisão e suporte técnico: Henrique Jorge + ChatGPT (OpenAI)
+
+Versão do patch: 4.0
+Compatibilidade-alvo: Camp Buddy: Scoutmaster Season 1.7 (PC)
+Idioma: Português do Brasil (PT-BR)
+
+AVISO
+-----
+Esta é uma tradução não oficial feita por fãs.
+
+Camp Buddy e Camp Buddy: Scoutmaster Season pertencem aos seus respectivos
+criadores e detentores de direitos. Este pacote não inclui nem redistribui
+o jogo completo ou seus arquivos de conteúdo originais.
+
+Este projeto não fornece o jogo nem instruções para obtê-lo por meios
+não autorizados.
+
+Bom jogo!

@@ -1,4 +1,4 @@
-CAMP BUDDY: SCOUTMASTER SEASON — TRADUÇÃO PT-BR v4.0
+CAMP BUDDY: SCOUTMASTER SEASON — TRADUÇÃO PT-BR
 ==========================================================
 
 PATCH NÃO OFICIAL FEITO POR FÃS
@@ -31,9 +31,9 @@ processo de tradução da DLC. A integração textual está no patch v4.0.
 
 DESINSTALAÇÃO
 -------------
-Feche o jogo e remova "CampBuddy_PTBR_v4.0.rpy" da pasta "game".
+Feche o jogo e remova "CampBuddy_PTBR.rpy" da pasta "game".
 
-SOBRE A v4.0
+SOBRE A VERSÃO
 ------------
 - Localização em português brasileiro do conteúdo textual coberto pelo projeto.
 - Integração da tradução textual da DLC.
@@ -54,7 +54,7 @@ CRÉDITOS
 Projeto, iniciativa e testes: Henrique Jorge
 Tradução, revisão e suporte técnico: Henrique Jorge + ChatGPT (OpenAI)
 
-Versão do patch: 4.0
+Versão do patch: Final(Espero... tô vendo ainda ;-;)
 Compatibilidade-alvo: Camp Buddy: Scoutmaster Season 1.7 (PC)
 Idioma: Português do Brasil (PT-BR)
 
